@@ -35,10 +35,19 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **Procedure**
 
 /* write all the steps invloved */
+1. Define the specifications and initialize the design.
+2.  Declare the name of the entity and architecture by using VHDL source code
+3.  Write the source code in VERILOG.
+4.  Check the syntax and debug the errors if found, obtain the synthesis report.
+5.  Verify the output by simulating the source code.
+6.  Write all possible combinations of input using the test bench
+7.  Obtain the place and route report.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
+Developed by: 
+Register number:
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
